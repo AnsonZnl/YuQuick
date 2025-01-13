@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         闲管家一键采集发布助手
 // @namespace    http://tampermonkey.net/
-// @version      1.31
+// @version      1.0
 // @description  在商品页面复制商品信息并在闲鱼管家后台上架页面插入“一键填充”按钮，添加下载商品详情图片的功能。包括选品功能，可在闲鱼商详页导出猜你喜欢的数据到Excel，支持动态数据
 // @author       九旬 wx：728396024    mail:728396024@qq.com
 // @match        https://h5.m.goofish.com/item?id=*
